@@ -1,2 +1,2 @@
-# test
-这是个测试项目
+# calculator
+js 简易计算器
